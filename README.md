@@ -1,2 +1,1 @@
-# stock-predictor-frontend
-front end for stock predictor
+https://rharman05.github.io/stock-predictor-frontend/
